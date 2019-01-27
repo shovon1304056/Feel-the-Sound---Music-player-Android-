@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4da8d1430e010937296a2cc4d054ee19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0975fbe97c2d35d66b604b80b2f00667\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d3f8e11ab4c5bbd0d34b60f1b3431c4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\128eb7f1b25db1204a93050e89003316\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c9c671d14be36af756d77297d8b3196c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c468a4adb71c426446a9571a5de13301\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5f3595ef4b736cf906bd0139421ec3a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b179e6b9e8660badd57d446e0792faf9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6f0e9811a38376722ee4af0a256a1416\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\94c9cda8fe88aeb9f5d41bcd50e9050e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\903f7968ebab89644c9a4c16438e0e09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bc8992efdeb77e8565fe6f2e81d7d71f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d6bd2ea94f2925b8592b348cd3dcb65f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a471b72feb3ff0412fcb0eb680f66659\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c96ae36e94d626313c82a72460d2c69f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9977b2fdc5b8b397b253d4281ccab0bc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ae7dc8635f3065aebe557636b8e000fa\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ff812d88dc042234af346594568c91a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7154174a3cda4f290813a2628b7da06a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51d760ad6b145115571de9f4e784ee5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2c47cd80d42016587b06f683d13fd5b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\62fd71563b1ae2a541480b8af915f932\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7c3c0cefed679ec2a4d3a9f55c1a6a5b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c58d43d24a070c6a6a6ddf914be62f81\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f0dd19528f5499debe2bb6c9b1de1967\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\11f2a29bee7e5e14dcfbd9d7e46b816e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b7ccf35b2c963976bcd24575ded1ec08\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0975fbe97c2d35d66b604b80b2f00667\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0975fbe97c2d35d66b604b80b2f00667\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9977b2fdc5b8b397b253d4281ccab0bc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9977b2fdc5b8b397b253d4281ccab0bc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ae7dc8635f3065aebe557636b8e000fa\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ae7dc8635f3065aebe557636b8e000fa\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9977b2fdc5b8b397b253d4281ccab0bc\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.iven.musicplayergo.MainActivity
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:27-74
+service#com.iven.musicplayergo.playback.MusicService
+ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:18-55
+uses-sdk
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4da8d1430e010937296a2cc4d054ee19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4da8d1430e010937296a2cc4d054ee19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0975fbe97c2d35d66b604b80b2f00667\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0975fbe97c2d35d66b604b80b2f00667\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d3f8e11ab4c5bbd0d34b60f1b3431c4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d3f8e11ab4c5bbd0d34b60f1b3431c4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\128eb7f1b25db1204a93050e89003316\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\128eb7f1b25db1204a93050e89003316\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c9c671d14be36af756d77297d8b3196c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c9c671d14be36af756d77297d8b3196c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c468a4adb71c426446a9571a5de13301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c468a4adb71c426446a9571a5de13301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5f3595ef4b736cf906bd0139421ec3a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5f3595ef4b736cf906bd0139421ec3a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b179e6b9e8660badd57d446e0792faf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b179e6b9e8660badd57d446e0792faf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6f0e9811a38376722ee4af0a256a1416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6f0e9811a38376722ee4af0a256a1416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\94c9cda8fe88aeb9f5d41bcd50e9050e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\94c9cda8fe88aeb9f5d41bcd50e9050e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\903f7968ebab89644c9a4c16438e0e09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\903f7968ebab89644c9a4c16438e0e09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bc8992efdeb77e8565fe6f2e81d7d71f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bc8992efdeb77e8565fe6f2e81d7d71f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d6bd2ea94f2925b8592b348cd3dcb65f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d6bd2ea94f2925b8592b348cd3dcb65f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a471b72feb3ff0412fcb0eb680f66659\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a471b72feb3ff0412fcb0eb680f66659\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c96ae36e94d626313c82a72460d2c69f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c96ae36e94d626313c82a72460d2c69f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9977b2fdc5b8b397b253d4281ccab0bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9977b2fdc5b8b397b253d4281ccab0bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ae7dc8635f3065aebe557636b8e000fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ae7dc8635f3065aebe557636b8e000fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ff812d88dc042234af346594568c91a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ff812d88dc042234af346594568c91a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7154174a3cda4f290813a2628b7da06a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7154174a3cda4f290813a2628b7da06a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51d760ad6b145115571de9f4e784ee5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51d760ad6b145115571de9f4e784ee5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2c47cd80d42016587b06f683d13fd5b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2c47cd80d42016587b06f683d13fd5b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\62fd71563b1ae2a541480b8af915f932\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\62fd71563b1ae2a541480b8af915f932\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7c3c0cefed679ec2a4d3a9f55c1a6a5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7c3c0cefed679ec2a4d3a9f55c1a6a5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c58d43d24a070c6a6a6ddf914be62f81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c58d43d24a070c6a6a6ddf914be62f81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f0dd19528f5499debe2bb6c9b1de1967\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f0dd19528f5499debe2bb6c9b1de1967\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\11f2a29bee7e5e14dcfbd9d7e46b816e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\11f2a29bee7e5e14dcfbd9d7e46b816e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b7ccf35b2c963976bcd24575ded1ec08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SHUVOJOTY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b7ccf35b2c963976bcd24575ded1ec08\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHUVOJOTY\AndroidStudioProjects\Music-Player-GO\project\app\src\main\AndroidManifest.xml
